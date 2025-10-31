@@ -5,7 +5,6 @@ const urlsToCache = [
   './manifest.json',
   './icon-192.png',
   './icon-512.png',
-  './index.tsx',
   'https://cdn.tailwindcss.com',
   'https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@700&display=swap'
 ];
