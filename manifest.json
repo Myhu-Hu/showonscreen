@@ -1,0 +1,23 @@
+
+{
+  "short_name": "語音字幕板",
+  "name": "中文語音字幕板",
+  "description": "一個即時語音轉文字的應用程式，可將您說的中文轉換為大型繁體字幕。",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "landscape",
+  "theme_color": "#000000",
+  "background_color": "#000000"
+}
