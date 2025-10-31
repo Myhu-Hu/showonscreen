@@ -1,4 +1,3 @@
-
 const CACHE_NAME = 'speech-subtitle-board-cache-v1';
 const urlsToCache = [
   '.',
@@ -7,10 +6,6 @@ const urlsToCache = [
   './icon-192.png',
   './icon-512.png',
   './index.tsx',
-  './App.tsx',
-  './components/MicrophoneIcon.tsx',
-  './components/SettingsIcon.tsx',
-  './components/SettingsPanel.tsx',
   'https://cdn.tailwindcss.com',
   'https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@700&display=swap'
 ];
